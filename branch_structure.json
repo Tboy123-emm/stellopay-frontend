@@ -1,0 +1,15 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feature/global-nav-shortcuts",
+    "main"
+  ],
+  "parent": {
+    "feature/global-nav-shortcuts": "main",
+    "main": null
+  },
+  "order": [
+    "main",
+    "feature/global-nav-shortcuts"
+  ]
+}
